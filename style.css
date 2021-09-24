@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Proxima+Nova');
+* {
+    margin: 0;
+    font-family: 'proxima-nova', sans-serif;
+}
+
+body {
+    padding: 40px;
+}
+
+h1 {
+    color: red;
+    font-size: large
+}
+
+.text1 {
+    color: cornflowerblue;
+}
+
+.span_red {
+    color: red;
+}
+
+.span_blue {
+    color: blue;
+    font-style: italic;
+    font-weight: 600;
+    background-color: rgba(233, 233, 118, 0.445);
+}
+
+.span_italic {
+    font-style: italic;
+}
+
+.span_gray {
+    color: rgb(128, 128, 128);
+}
+
+.yellow_span {
+    color: yellow;
+    font-weight: 1000;
+    background-color: black;
+}
