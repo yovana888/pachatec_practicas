@@ -295,7 +295,7 @@ h3 {
 
 /**Responsive mx with max de ancho**/
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 540px) {
     .header {
         flex-direction: column;
     }
