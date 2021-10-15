@@ -30,7 +30,7 @@
 #section1 {
     background: #e8e7e3;
     flex-basis: 50%;
-    background-image: url('img/slide-2.jpg');
+    background-image: url('../img/slide-2.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -135,11 +135,11 @@ h3 {
 }
 
 .bg-1 {
-    background-image: url('./img/OrganicProduce-e1428702141300.jpg');
+    background-image: url('../img/OrganicProduce-e1428702141300.jpg');
 }
 
 .bg-2 {
-    background-image: url('./img/kiwi.jpg');
+    background-image: url('../img/kiwi.jpg');
 }
 
 .nav-ul li {
@@ -240,19 +240,19 @@ h3 {
 }
 
 #section6 {
-    background-image: url('./img/melon.jpg');
+    background-image: url('../img/melon.jpg');
 }
 
 #section7 {
-    background-image: url('./img/jugo2.jpg');
+    background-image: url('../img/jugo2.jpg');
 }
 
 #section8 {
-    background-image: url('./img/fresa.jpg');
+    background-image: url('../img/fresa.jpg');
 }
 
 #section9 {
-    background-image: url('./img/jugo.jpg');
+    background-image: url('../img/jugo.jpg');
 }
 
 .btn-store {
